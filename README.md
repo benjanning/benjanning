@@ -11,7 +11,7 @@ I’m **Ben Janning**. I connect computing, data analytics and commercial experi
 <h3>Hotel booking prototype</h3>
 <p>From dates and room selection to a server-calculated booking summary.</p>
 <p><sub>Node.js · Express · EJS · MySQL</sub></p>
-<p><a href="https://benjanning.github.io/projects/projects/hotel-booking/">Case study</a> · <a href="https://github.com/benjanning/cork-city-hotel">Code</a> · <a href="https://benjanning.github.io/cork-city-hotel/">Try demo</a></p>
+<p><a href="https://benjanning.github.io/projects/projects/hotel-booking/">Case study</a> · <a href="https://github.com/benjanning/cork-city-hotel">Code</a> · <a href="https://benjanning.github.io/cork-city-hotel/">Try static demo</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://benjanning.github.io/projects/projects/car-rental/"><img src="assets/car-rental.jpg" width="420" alt="Genuine preview of Car rental management"></a>
