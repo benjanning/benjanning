@@ -46,7 +46,7 @@ I’m **Ben Janning**. I connect computing, data analytics and commercial experi
 <p><a href="https://benjanning.github.io/projects/projects/sorting-algorithms/">Case study</a> · <a href="https://github.com/benjanning/Sorting-Algorithms-Project">Code</a> · <a href="https://benjanning.github.io/Sorting-Algorithms-Project/">Try sorting explorer</a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://benjanning.github.io/projects/projects/iris-analysis/"><img src="https://benjanning.github.io/projects/assets/featured/iris-analysis.png?v=4" width="420" alt="Genuine preview of Iris dataset exploration"></a>
+<a href="https://benjanning.github.io/projects/projects/iris-analysis/"><img src="https://benjanning.github.io/projects/assets/featured/iris-analysis.png?v=4-72eba1e12596" width="420" alt="Genuine preview of Iris dataset exploration"></a>
 <h3>Iris dataset exploration</h3>
 <p>Filter species, compare features and inspect genuine measurement summaries.</p>
 <p><sub>Python · pandas · NumPy · JavaScript</sub></p>
